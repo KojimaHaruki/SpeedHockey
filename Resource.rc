@@ -1,0 +1,301 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 日本語 (日本) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_JPN)
+LANGUAGE LANG_JAPANESE, SUBLANG_DEFAULT
+#pragma code_page(932)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// PNG
+//
+
+IDB_PNG1                PNG                     "KeyImage\\Esc.png"
+
+IDB_PNG2                PNG                     "KeyImage\\1.png"
+
+IDB_PNG3                PNG                     "KeyImage\\2.png"
+
+IDB_PNG4                PNG                     "KeyImage\\3.png"
+
+IDB_PNG5                PNG                     "KeyImage\\4.png"
+
+IDB_PNG6                PNG                     "KeyImage\\5.png"
+
+IDB_PNG7                PNG                     "KeyImage\\6.png"
+
+IDB_PNG8                PNG                     "KeyImage\\7.png"
+
+IDB_PNG9                PNG                     "KeyImage\\8.png"
+
+IDB_PNG10               PNG                     "KeyImage\\9.png"
+
+IDB_PNG11               PNG                     "KeyImage\\0.png"
+
+IDB_PNG12               PNG                     "KeyImage\\BackSpace.png"
+
+IDB_PNG13               PNG                     "KeyImage\\Tab.png"
+
+IDB_PNG14               PNG                     "KeyImage\\Q.png"
+
+IDB_PNG15               PNG                     "KeyImage\\W.png"
+
+IDB_PNG16               PNG                     "KeyImage\\E.png"
+
+IDB_PNG17               PNG                     "KeyImage\\R.png"
+
+IDB_PNG18               PNG                     "KeyImage\\T.png"
+
+IDB_PNG19               PNG                     "KeyImage\\Y.png"
+
+IDB_PNG20               PNG                     "KeyImage\\U.png"
+
+IDB_PNG21               PNG                     "KeyImage\\I.png"
+
+IDB_PNG22               PNG                     "KeyImage\\O.png"
+
+IDB_PNG23               PNG                     "KeyImage\\P.png"
+
+IDB_PNG24               PNG                     "KeyImage\\Enter.png"
+
+IDB_PNG25               PNG                     "KeyImage\\Ctrl.png"
+
+IDB_PNG26               PNG                     "KeyImage\\A.png"
+
+IDB_PNG27               PNG                     "KeyImage\\S.png"
+
+IDB_PNG28               PNG                     "KeyImage\\D.png"
+
+IDB_PNG29               PNG                     "KeyImage\\F.png"
+
+IDB_PNG30               PNG                     "KeyImage\\G.png"
+
+IDB_PNG31               PNG                     "KeyImage\\H.png"
+
+IDB_PNG32               PNG                     "KeyImage\\J.png"
+
+IDB_PNG33               PNG                     "KeyImage\\K.png"
+
+IDB_PNG34               PNG                     "KeyImage\\L.png"
+
+IDB_PNG35               PNG                     "KeyImage\\Shift.png"
+
+IDB_PNG36               PNG                     "KeyImage\\Z.png"
+
+IDB_PNG37               PNG                     "KeyImage\\X.png"
+
+IDB_PNG38               PNG                     "KeyImage\\C.png"
+
+IDB_PNG39               PNG                     "KeyImage\\V.png"
+
+IDB_PNG40               PNG                     "KeyImage\\B.png"
+
+IDB_PNG41               PNG                     "KeyImage\\N.png"
+
+IDB_PNG42               PNG                     "KeyImage\\M.png"
+
+IDB_PNG43               PNG                     "KeyImage\\Shift.png"
+
+IDB_PNG44               PNG                     "KeyImage\\Alt.png"
+
+IDB_PNG45               PNG                     "KeyImage\\Space.png"
+
+IDB_PNG46               PNG                     "KeyImage\\CapsLock.png"
+
+IDB_PNG47               PNG                     "KeyImage\\F1.png"
+
+IDB_PNG48               PNG                     "KeyImage\\F2.png"
+
+IDB_PNG49               PNG                     "KeyImage\\F3.png"
+
+IDB_PNG50               PNG                     "KeyImage\\F4.png"
+
+IDB_PNG51               PNG                     "KeyImage\\F5.png"
+
+IDB_PNG52               PNG                     "KeyImage\\F6.png"
+
+IDB_PNG53               PNG                     "KeyImage\\F7.png"
+
+IDB_PNG54               PNG                     "KeyImage\\F8.png"
+
+IDB_PNG55               PNG                     "KeyImage\\F9.png"
+
+IDB_PNG56               PNG                     "KeyImage\\F10.png"
+
+IDB_PNG57               PNG                     "KeyImage\\F11.png"
+
+IDB_PNG58               PNG                     "KeyImage\\F12.png"
+
+IDB_PNG59               PNG                     "KeyImage\\Ctrl.png"
+
+IDB_PNG60               PNG                     "KeyImage\\Alt.png"
+
+IDB_PNG61               PNG                     "KeyImage\\PauseBreak.png"
+
+IDB_PNG62               PNG                     "KeyImage\\Up.png"
+
+IDB_PNG63               PNG                     "KeyImage\\Left.png"
+
+IDB_PNG64               PNG                     "KeyImage\\Right.png"
+
+IDB_PNG65               PNG                     "KeyImage\\Down.png"
+
+IDB_PNG66               PNG                     "KeyImage\\Ins.png"
+
+IDB_PNG67               PNG                     "KeyImage\\Del.png"
+
+IDB_PNG68               PNG                     "CharImage\\John Williams.png"
+
+IDB_PNG69               PNG                     "CharImage\\Komachi Suzuka.png"
+
+IDB_PNG70               PNG                     "CharImage\\Misuzu Suzuka.png"
+
+IDB_PNG71               PNG                     "CharImage\\Michel Ferrari.png"
+
+IDB_PNG72               PNG                     "CharImage\\Yoichi Suzuka.png"
+
+IDB_PNG73               PNG                     "CharImage\\Moscow.png"
+
+IDB_PNG74               PNG                     "Icon\\Left.png"
+
+IDB_PNG75               PNG                     "Icon\\Right.png"
+
+IDB_PNG76               PNG                     "Icon\\AntiClockwise.png"
+
+IDB_PNG77               PNG                     "Icon\\Clockwise.png"
+
+IDB_PNG78               PNG                     "Icon\\SoftDrop.png"
+
+IDB_PNG79               PNG                     "Icon\\HardDrop.png"
+
+IDB_PNG80               PNG                     "Icon\\Shadow.png"
+
+IDB_PNG81               PNG                     "Icon\\Skill.png"
+
+IDB_PNG82               PNG                     "Icon\\Hold.png"
+
+IDB_PNG83               PNG                     "Icon\\Home.png"
+
+IDB_PNG84               PNG                     "Icon\\Restart.png"
+
+IDB_PNG85               PNG                     "Icon\\Initialize.png"
+
+IDB_PNG86               PNG                     "Icon\\Skip.png"
+
+IDB_PNG87               PNG                     "Icon\\Exit.png"
+
+IDB_PNG88               PNG                     "Icon\\Cog.png"
+
+IDB_PNG89               PNG                     "Icon\\Music.png"
+
+IDB_PNG90               PNG                     "Icon\\AnotherWindow.png"
+
+IDB_PNG91               PNG                     "Icon\\MaximizeWindow.png"
+
+IDB_PNG92               PNG                     "Icon\\Mute.png"
+
+IDB_PNG93               PNG                     "Icon\\Speaker.png"
+
+IDB_PNG94               PNG                     "Icon\\Stop.png"
+
+IDB_PNG95               PNG                     "Icon\\Start.png"
+
+IDB_PNG96               PNG                     "Icon\\Back.png"
+
+IDB_PNG97               PNG                     "Icon\\Forward.png"
+
+IDB_PNG98               PNG                     "Icon\\Down.png"
+
+IDB_PNG99               PNG                     "Icon\\Up.png"
+
+IDB_PNG100              PNG                     "Icon\\Selected.png"
+
+IDB_PNG101              PNG                     "Icon\\Cursor.png"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// WAVE
+//
+
+IDR_WAVE1               WAVE                    "BGM\\Dead or Alive.wav"
+
+IDR_WAVE2               WAVE                    "BGM\\Chocolate.wav"
+
+IDR_WAVE3               WAVE                    "BGM\\Detect.wav"
+
+IDR_WAVE4               WAVE                    "BGM\\Hometown.wav"
+
+IDR_WAVE5               WAVE                    "BGM\\Memory of Legend.wav"
+
+IDR_WAVE6               WAVE                    "BGM\\Nothing dies in my mind.wav"
+
+IDR_WAVE7               WAVE                    "BGM\\Sorrow.wav"
+
+IDR_WAVE8               WAVE                    "BGM\\Victory belongs to You.wav"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_ICON1               ICON                    "Icon\\TETR4 Icon.ico"
+
+MAINICON                ICON                    "Icon\\TETR4 Icon.ico"
+
+#endif    // 日本語 (日本) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
